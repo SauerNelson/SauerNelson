@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! :vulcan_salute:
+
+Eu sou o Nelson Sauer, tenho 27 anos, atualmente cursando Programador Front-End, através do programa Ford Enter, uma parceria entre a Ford Motor Company Brasil e SENAI-SP.
+
+Nesse curso, vou aprender a desenvolver aplicações Front-end Web, compreendendo as principais ferramentas, técnicas e tecnologias envolvidas, me preparando para ingressar no mercado de trabalho. 
+
+
+<div align="center">
+<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">  <img  height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg"><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+</div>
+
+
 
 <!--
 **SauerNelson/SauerNelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
