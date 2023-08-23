@@ -13,6 +13,9 @@ Nesse curso, vou aprender a desenvolver aplicações Front-end Web, compreendend
 
 ![SauerNelson GitHub stats](https://github-readme-stats.vercel.app/api?username=SauerNelson&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauerNelson&hide_progress=true)
+
+
 
 <!--
 **SauerNelson/SauerNelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
