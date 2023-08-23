@@ -11,7 +11,7 @@ Nesse curso, vou aprender a desenvolver aplicações Front-end Web, compreendend
   <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg"><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 </div>
 
-![SauerNelson GitHub stats](https://github-readme-stats.vercel.app/api?username=SauerNelson&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage )
+![SauerNelson GitHub stats](https://github-readme-stats.vercel.app/api?username=SauerNelson&show_icons=true&theme=radical)
 
 
 <!--
